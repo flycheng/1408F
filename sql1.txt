@@ -10,3 +10,7 @@ def getdate():
 	
 def runjava():
 	pass
+	
+def login():
+	print 'login'
+	
