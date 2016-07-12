@@ -10,3 +10,6 @@ def getdate():
 	
 def runjava():
 	pass
+	
+def aaaaaaaaaaaaaaaaa():
+	print 'hello'
