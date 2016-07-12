@@ -16,3 +16,6 @@ def login():
 	
 def bbbb():
 	pass
+	
+def aaaa():
+	pass
