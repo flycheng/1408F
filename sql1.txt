@@ -14,3 +14,5 @@ def runjava():
 def login():
 	print 'login'
 	
+def bbbb():
+	pass
