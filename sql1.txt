@@ -7,3 +7,6 @@ def hello():
 	
 def getdate():
 	pass
+	
+def runjava():
+	pass
