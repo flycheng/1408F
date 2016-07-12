@@ -2,3 +2,5 @@ select s.sno as 学生姓名, a.cj as 成绩 from s,
 ( select sno, avg(scgrade) as cj from sc where scgrade < 60 group by sno having count(sno) > 1 ) as a
 where s.sno = a.sno;
 
+def hello():
+	pass
