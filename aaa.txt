@@ -3,5 +3,10 @@ bbbbbbbbbbbbbbbb
 
 adsfdsafsadfdsaf
 
+
 def register():
 	print 'welcome'
+
+def login():
+	print 'hello'
+
